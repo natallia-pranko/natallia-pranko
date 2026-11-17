@@ -10,8 +10,6 @@
 
 ## Проекты
 
-## Проекты
-
 - [EDA_Секреты темнолесья](https://github.com/prankonatala466-boop/my-project/tree/main/EDA_Секреты%20темнолесья) — предобработка данных об играх
 - [EDA_Рынок общественного питания](https://github.com/prankonatala466-boop/my-project/tree/main/EDA_Рынок%20общественного%20питания) — EDA рынка общепита Москвы
 - [EDA_Рынок стартапов](https://github.com/prankonatala466-boop/my-project/tree/main/EDA_Рынок%20стартапов) — анализ финансирования стартапов
